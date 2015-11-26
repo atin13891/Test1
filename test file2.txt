@@ -1,0 +1,2 @@
+2nd text file
+will be committed using git gui and not git bash
